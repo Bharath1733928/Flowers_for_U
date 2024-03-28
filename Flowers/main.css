@@ -13,7 +13,8 @@
   padding: 3rem;
   font-size: 3.5rem;
   font-weight: bold;
-  color: rgb(27,241,224);
+  color: #fd6db0;
+  opacity: 0.9;
   border-radius: .5em;
   text-shadow: 4px 4px 10px rgb(206, 209, 15);
   box-shadow: 2px 2px 28px 0 rgb(23, 179, 241),
